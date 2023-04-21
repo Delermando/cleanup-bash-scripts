@@ -2,11 +2,11 @@
 
 This repository aims to provide the community with a series of bash scripts for cleaning up unused resources.
 
-## Available scripts
+#### Available scripts
 * AWS
     * [Unused security groups](/security_groups/README.md)
         
-AWS to do list
+#### AWS to do list
 - iam_policy
 - iam_role
 - iam_user
